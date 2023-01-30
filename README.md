@@ -9,7 +9,7 @@ This project demonstrates how katalon studio helps users to automate Power BI ap
 
 # Use case
 
-* For the power app sample project we have two test cases for different-2 applications.
+For the power app sample project we have two test cases for different-2 applications.
 
 Powerapp Portal
 
@@ -40,7 +40,6 @@ PowerBI
 * Update the application URL, Username, and Password inside the Default Profile.
 
 ![image](https://user-images.githubusercontent.com/84115288/215413135-6114c037-3f99-4a33-9b52-9805ab15628c.png)
-
 
 * Run the test on the browser.
 
