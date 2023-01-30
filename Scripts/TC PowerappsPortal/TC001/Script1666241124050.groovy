@@ -23,9 +23,9 @@ WebUI.navigateToUrl('https://mtaappsqa-3.powerappsportals.us/')
 
 WebUI.click(findTestObject('Object Repository/OR PowerAppsportal/Page_Home  Partner Portal/a_Sign in'))
 
-WebUI.setText(findTestObject('Object Repository/OR PowerAppsportal/Page_Partner Portal/input_Username_Username'), 'Enter your username')
+WebUI.setText(findTestObject('Object Repository/OR PowerAppsportal/Page_Partner Portal/input_Username_Username'), GlobalVariable.USERNAME)
 
-WebUI.setText(findTestObject('Object Repository/OR PowerAppsportal/Page_Partner Portal/input_Password_PasswordValue'), 'Enter your password')
+WebUI.setText(findTestObject('Object Repository/OR PowerAppsportal/Page_Partner Portal/input_Password_PasswordValue'), GlobalVariable.PASSWORD)
 
 WebUI.click(findTestObject('Object Repository/OR PowerAppsportal/Page_Partner Portal/button_Sign in'))
 

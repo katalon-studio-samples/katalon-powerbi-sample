@@ -27,9 +27,9 @@ WebUI.click(findTestObject('Object Repository/OR POWERAPPPORTAL/Page_Home  Partn
 
 WebUI.click(findTestObject('Object Repository/OR POWERAPPPORTAL/Page_Partner Portal/input_Username_Username'))
 
-WebUI.setText(findTestObject('Object Repository/OR POWERAPPPORTAL/Page_Partner Portal/input_Username_Username'), 'Enter your username')
+WebUI.setText(findTestObject('Object Repository/OR POWERAPPPORTAL/Page_Partner Portal/input_Username_Username'), GlobalVariable.USERNAME)
 
-WebUI.setText(findTestObject('Object Repository/OR POWERAPPPORTAL/Page_Partner Portal/input_Password_PasswordValue'), 'Enter Password')
+WebUI.setText(findTestObject('Object Repository/OR POWERAPPPORTAL/Page_Partner Portal/input_Password_PasswordValue'), GlobalVariable.PASSWORD)
 
 WebUI.click(findTestObject('Object Repository/OR POWERAPPPORTAL/Page_Partner Portal/button_Sign in'))
 

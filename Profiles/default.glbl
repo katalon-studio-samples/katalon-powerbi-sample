@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://mtaappsqa-3.powerappsportals.us/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Enter Username'</initValue>
+      <name>USERNAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Enter Password'</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
