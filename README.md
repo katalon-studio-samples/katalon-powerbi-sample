@@ -4,7 +4,7 @@ This project demonstrates how katalon studio helps users to automate Power BI ap
 
 # Requirements
 
-* Katalon Studio
+* [Katalon Studio][KS]
 * PowerBI Account
 
 # Use case
@@ -45,7 +45,6 @@ PowerBI
 
 * Verify the test result.
 
-
-Thanks..
-
 Repository for the Sample Project: https://github.com/katalon-studio-samples/katalon-powewbi-sample.git
+
+[KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
