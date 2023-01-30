@@ -5,7 +5,7 @@ This project demonstrates how katalon studio helps users to automate Power BI ap
 # Requirements
 
 * Katalon Studio
-* Oracle Account
+* PowerBI Account
 
 # Use case
 
@@ -39,7 +39,8 @@ PowerBI
 
 * Update the application URL, Username, and Password inside the Default Profile.
 
-![image](https://user-images.githubusercontent.com/84115288/215404496-f0fe113c-de47-4a38-82a0-95926183ff54.png)
+![image](https://user-images.githubusercontent.com/84115288/215413135-6114c037-3f99-4a33-9b52-9805ab15628c.png)
+
 
 * Run the test on the browser.
 
