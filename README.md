@@ -37,7 +37,7 @@ PowerBI
 
 **How to run this sample project**
 
-* Update the application URL, Username, and Password inside the Default Profile.
+* Update the application URL, Username, and Password inside the Default Profile. [Here][4]
 
 ![image](https://user-images.githubusercontent.com/84115288/215413135-6114c037-3f99-4a33-9b52-9805ab15628c.png)
 
