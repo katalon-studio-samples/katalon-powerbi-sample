@@ -46,7 +46,8 @@ PowerBI
 * Verify the test execution result. [Here][6]
 
 
-**Repository for the [Sample Project][SP]:**
+
+**Repository for the [Sample Project][SP].**
 
 [SP]: <https://github.com/katalon-studio-samples/katalon-powewbi-sample.git> "Sample Project"
 
