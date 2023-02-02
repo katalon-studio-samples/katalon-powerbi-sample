@@ -46,11 +46,6 @@ PowerBI
 * Verify the test execution result. [Here][6]
 
 
-
-**Repository for the [Sample Project][SP].**
-
-[SP]: <https://github.com/katalon-studio-samples/katalon-powewbi-sample.git> "Sample Project"
-
 [1]: <https://docs.katalon.com/docs/maintain/self-healing-tests-in-katalon-studio#configure-test-design> "Here"
 [3]: <https://docs.katalon.com/docs/author/record-and-spy/webui-record-and-spy-utilities/record-web-utility-in-katalon-studio#record-a-new-test-case> "Here"
 [4]: <https://docs.katalon.com/docs/author/data-driven-testing/global-variables-and-execution-profile#execution-profile> "Here"
